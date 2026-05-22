@@ -1,1047 +1,1256 @@
 [
   {
     "word": "كيس",
-    "start": 0,
-    "end": 1.0
+    "start": 0.651,
+    "end": 1.104,
+    "duration": 0.453
   },
   {
     "word": "القماش",
-    "start": 1.0,
-    "end": 2.0
+    "start": 1.104,
+    "end": 1.557,
+    "duration": 0.453
   },
   {
     "word": "لفت",
-    "start": 2,
-    "end": 2.73
+    "start": 2.965,
+    "end": 3.569,
+    "duration": 0.604
   },
   {
     "word": "انتباهي",
-    "start": 2.73,
-    "end": 3.45
+    "start": 3.569,
+    "end": 4.174,
+    "duration": 0.604
   },
   {
     "word": "كيس",
-    "start": 3.45,
-    "end": 4.18
+    "start": 4.174,
+    "end": 4.778,
+    "duration": 0.604
   },
   {
     "word": "القماش",
-    "start": 4.18,
-    "end": 4.91
+    "start": 4.778,
+    "end": 5.382,
+    "duration": 0.604
   },
   {
     "word": "الذي",
-    "start": 4.91,
-    "end": 5.64
+    "start": 5.382,
+    "end": 5.986,
+    "duration": 0.604
   },
   {
     "word": "أحضره",
-    "start": 5.64,
-    "end": 6.36
+    "start": 5.986,
+    "end": 6.59,
+    "duration": 0.604
   },
   {
     "word": "عمي",
-    "start": 6.36,
-    "end": 7.09
+    "start": 6.59,
+    "end": 7.194,
+    "duration": 0.604
   },
   {
     "word": "نزار",
-    "start": 7.09,
-    "end": 7.82
+    "start": 7.194,
+    "end": 7.798,
+    "duration": 0.604
   },
   {
     "word": "معه",
-    "start": 7.82,
-    "end": 8.55
+    "start": 7.798,
+    "end": 8.402,
+    "duration": 0.604
   },
   {
     "word": "عندما",
-    "start": 8.55,
-    "end": 9.27
+    "start": 8.402,
+    "end": 9.007,
+    "duration": 0.604
   },
   {
     "word": "زارنا",
-    "start": 9.27,
-    "end": 10.0
+    "start": 9.007,
+    "end": 9.611,
+    "duration": 0.604
   },
   {
     "word": "فسألته",
-    "start": 10,
-    "end": 10.67
+    "start": 10.699,
+    "end": 11.277,
+    "duration": 0.578
   },
   {
     "word": "لماذا",
-    "start": 10.67,
-    "end": 11.33
+    "start": 11.277,
+    "end": 11.855,
+    "duration": 0.578
   },
   {
     "word": "تضع",
-    "start": 11.33,
-    "end": 12.0
+    "start": 11.855,
+    "end": 12.433,
+    "duration": 0.578
   },
   {
     "word": "أغراضك",
-    "start": 12.0,
-    "end": 12.67
+    "start": 12.433,
+    "end": 13.011,
+    "duration": 0.578
   },
   {
     "word": "في",
-    "start": 12.67,
-    "end": 13.33
+    "start": 13.011,
+    "end": 13.589,
+    "duration": 0.578
   },
   {
     "word": "كيس",
-    "start": 13.33,
-    "end": 14.0
+    "start": 13.589,
+    "end": 14.167,
+    "duration": 0.578
   },
   {
     "word": "ولا",
-    "start": 14.0,
-    "end": 14.67
+    "start": 14.167,
+    "end": 14.746,
+    "duration": 0.578
   },
   {
     "word": "تحمل",
-    "start": 14.67,
-    "end": 15.33
+    "start": 14.746,
+    "end": 15.324,
+    "duration": 0.578
   },
   {
     "word": "حقيبة",
-    "start": 15.33,
-    "end": 16.0
+    "start": 15.324,
+    "end": 15.902,
+    "duration": 0.578
   },
   {
     "word": "مثل",
-    "start": 16.0,
-    "end": 16.67
+    "start": 15.902,
+    "end": 16.48,
+    "duration": 0.578
   },
   {
     "word": "أمي",
-    "start": 16.67,
-    "end": 17.33
+    "start": 16.48,
+    "end": 17.058,
+    "duration": 0.578
   },
   {
     "word": "عندما",
-    "start": 17.33,
-    "end": 18.0
+    "start": 17.058,
+    "end": 17.636,
+    "duration": 0.578
   },
   {
     "word": "تذهب",
-    "start": 18.0,
-    "end": 18.67
+    "start": 17.636,
+    "end": 18.214,
+    "duration": 0.578
   },
   {
     "word": "إلى",
-    "start": 18.67,
-    "end": 19.33
+    "start": 18.214,
+    "end": 18.793,
+    "duration": 0.578
   },
   {
     "word": "الجامعة",
-    "start": 19.33,
-    "end": 20.0
+    "start": 18.793,
+    "end": 19.371,
+    "duration": 0.578
   },
   {
     "word": "ضحك",
-    "start": 20,
-    "end": 20.79
+    "start": 20.544,
+    "end": 21.241,
+    "duration": 0.697
   },
   {
     "word": "عمي",
-    "start": 20.79,
-    "end": 21.57
+    "start": 21.241,
+    "end": 21.938,
+    "duration": 0.697
   },
   {
     "word": "وقال",
-    "start": 21.57,
-    "end": 22.36
+    "start": 21.938,
+    "end": 22.635,
+    "duration": 0.697
   },
   {
     "word": "أنا",
-    "start": 22.36,
-    "end": 23.14
+    "start": 22.635,
+    "end": 23.333,
+    "duration": 0.697
   },
   {
     "word": "صديق",
-    "start": 23.14,
-    "end": 23.93
+    "start": 23.333,
+    "end": 24.03,
+    "duration": 0.697
   },
   {
     "word": "للبيئة",
-    "start": 23.93,
-    "end": 24.71
+    "start": 24.03,
+    "end": 24.727,
+    "duration": 0.697
   },
   {
     "word": "وأعمل",
-    "start": 24.71,
-    "end": 25.5
+    "start": 24.727,
+    "end": 25.424,
+    "duration": 0.697
   },
   {
     "word": "على",
-    "start": 25.5,
-    "end": 26.29
+    "start": 25.424,
+    "end": 26.121,
+    "duration": 0.697
   },
   {
     "word": "تغيير",
-    "start": 26.29,
-    "end": 27.07
+    "start": 26.121,
+    "end": 26.818,
+    "duration": 0.697
   },
   {
     "word": "تصرفات",
-    "start": 27.07,
-    "end": 27.86
+    "start": 26.818,
+    "end": 27.515,
+    "duration": 0.697
   },
   {
     "word": "الناس",
-    "start": 27.86,
-    "end": 28.64
+    "start": 27.515,
+    "end": 28.213,
+    "duration": 0.697
   },
   {
     "word": "حتى",
-    "start": 28.64,
-    "end": 29.43
+    "start": 28.213,
+    "end": 28.91,
+    "duration": 0.697
   },
   {
     "word": "يحترم",
-    "start": 29.43,
-    "end": 30.21
+    "start": 28.91,
+    "end": 29.607,
+    "duration": 0.697
   },
   {
     "word": "الطبيعة",
-    "start": 30.21,
-    "end": 31.0
+    "start": 29.607,
+    "end": 30.304,
+    "duration": 0.697
   },
   {
     "word": "قلت",
-    "start": 31,
-    "end": 31.55
+    "start": 31.285,
+    "end": 31.785,
+    "duration": 0.499
   },
   {
     "word": "له",
-    "start": 31.55,
-    "end": 32.09
+    "start": 31.785,
+    "end": 32.284,
+    "duration": 0.499
   },
   {
     "word": "على",
-    "start": 32.09,
-    "end": 32.64
+    "start": 32.284,
+    "end": 32.784,
+    "duration": 0.499
   },
   {
     "word": "الفور",
-    "start": 32.64,
-    "end": 33.18
+    "start": 32.784,
+    "end": 33.283,
+    "duration": 0.499
   },
   {
     "word": "هل",
-    "start": 33.18,
-    "end": 33.73
+    "start": 33.283,
+    "end": 33.782,
+    "duration": 0.499
   },
   {
     "word": "تسلم",
-    "start": 33.73,
-    "end": 34.27
+    "start": 33.782,
+    "end": 34.282,
+    "duration": 0.499
   },
   {
     "word": "على",
-    "start": 34.27,
-    "end": 34.82
+    "start": 34.282,
+    "end": 34.781,
+    "duration": 0.499
   },
   {
     "word": "الشجرة",
-    "start": 34.82,
-    "end": 35.36
+    "start": 34.781,
+    "end": 35.28,
+    "duration": 0.499
   },
   {
     "word": "وتقول",
-    "start": 35.36,
-    "end": 35.91
+    "start": 35.28,
+    "end": 35.78,
+    "duration": 0.499
   },
   {
     "word": "لها",
-    "start": 35.91,
-    "end": 36.45
+    "start": 35.78,
+    "end": 36.279,
+    "duration": 0.499
   },
   {
     "word": "أحترمك؟",
-    "start": 36.45,
-    "end": 37.0
+    "start": 36.279,
+    "end": 36.779,
+    "duration": 0.499
   },
   {
     "word": "قال",
-    "start": 37,
-    "end": 38.0
+    "start": 37.824,
+    "end": 38.494,
+    "duration": 0.67
   },
   {
     "word": "عمي",
-    "start": 38.0,
-    "end": 39.0
+    "start": 38.494,
+    "end": 39.164,
+    "duration": 0.67
   },
   {
     "word": "أحترمها",
-    "start": 39.0,
-    "end": 40.0
+    "start": 39.164,
+    "end": 39.834,
+    "duration": 0.67
   },
   {
     "word": "بالمحافظة",
-    "start": 40.0,
-    "end": 41.0
+    "start": 39.834,
+    "end": 40.503,
+    "duration": 0.67
   },
   {
     "word": "عليها",
-    "start": 41.0,
-    "end": 42.0
+    "start": 40.503,
+    "end": 41.173,
+    "duration": 0.67
   },
   {
     "word": "أنا",
-    "start": 42,
-    "end": 42.67
+    "start": 42.549,
+    "end": 43.124,
+    "duration": 0.574
   },
   {
     "word": "أستعمل",
-    "start": 42.67,
-    "end": 43.33
+    "start": 43.124,
+    "end": 43.698,
+    "duration": 0.574
   },
   {
     "word": "هذا",
-    "start": 43.33,
-    "end": 44.0
+    "start": 43.698,
+    "end": 44.272,
+    "duration": 0.574
   },
   {
     "word": "الكيس",
-    "start": 44.0,
-    "end": 44.67
+    "start": 44.272,
+    "end": 44.846,
+    "duration": 0.574
   },
   {
     "word": "ولا",
-    "start": 44.67,
-    "end": 45.33
+    "start": 44.846,
+    "end": 45.42,
+    "duration": 0.574
   },
   {
     "word": "أرميه",
-    "start": 45.33,
-    "end": 46.0
+    "start": 45.42,
+    "end": 45.995,
+    "duration": 0.574
   },
   {
     "word": "ولو",
-    "start": 46,
-    "end": 46.64
+    "start": 46.005,
+    "end": 46.606,
+    "duration": 0.601
   },
   {
     "word": "يفعل",
-    "start": 46.64,
-    "end": 47.29
+    "start": 46.606,
+    "end": 47.208,
+    "duration": 0.601
   },
   {
     "word": "مثلي",
-    "start": 47.29,
-    "end": 47.93
+    "start": 47.208,
+    "end": 47.809,
+    "duration": 0.601
   },
   {
     "word": "كل",
-    "start": 47.93,
-    "end": 48.57
+    "start": 47.809,
+    "end": 48.41,
+    "duration": 0.601
   },
   {
     "word": "الناس",
-    "start": 48.57,
-    "end": 49.21
+    "start": 48.41,
+    "end": 49.011,
+    "duration": 0.601
   },
   {
     "word": "لقلت",
-    "start": 49.21,
-    "end": 49.86
+    "start": 49.011,
+    "end": 49.612,
+    "duration": 0.601
   },
   {
     "word": "طلب",
-    "start": 49.86,
-    "end": 50.5
+    "start": 49.612,
+    "end": 50.213,
+    "duration": 0.601
   },
   {
     "word": "على",
-    "start": 50.5,
-    "end": 51.14
+    "start": 50.213,
+    "end": 50.814,
+    "duration": 0.601
   },
   {
     "word": "أكياس",
-    "start": 51.14,
-    "end": 51.79
+    "start": 50.814,
+    "end": 51.416,
+    "duration": 0.601
   },
   {
     "word": "النايلوني",
-    "start": 51.79,
-    "end": 52.43
+    "start": 51.416,
+    "end": 52.017,
+    "duration": 0.601
   },
   {
     "word": "وأكياس",
-    "start": 52.43,
-    "end": 53.07
+    "start": 52.017,
+    "end": 52.618,
+    "duration": 0.601
   },
   {
     "word": "الورق",
-    "start": 53.07,
-    "end": 53.71
+    "start": 52.618,
+    "end": 53.219,
+    "duration": 0.601
   },
   {
     "word": "وقلت",
-    "start": 53.71,
-    "end": 54.36
+    "start": 53.219,
+    "end": 53.82,
+    "duration": 0.601
   },
   {
     "word": "صناعتهما",
-    "start": 54.36,
-    "end": 55.0
+    "start": 53.82,
+    "end": 54.421,
+    "duration": 0.601
   },
   {
     "word": "سألته",
-    "start": 55,
-    "end": 55.86
+    "start": 55.392,
+    "end": 56.094,
+    "duration": 0.702
   },
   {
     "word": "باهتمام",
-    "start": 55.86,
-    "end": 56.71
+    "start": 56.094,
+    "end": 56.797,
+    "duration": 0.702
   },
   {
     "word": "وماذا",
-    "start": 56.71,
-    "end": 57.57
+    "start": 56.797,
+    "end": 57.499,
+    "duration": 0.702
   },
   {
     "word": "سيحصل",
-    "start": 57.57,
-    "end": 58.43
+    "start": 57.499,
+    "end": 58.202,
+    "duration": 0.702
   },
   {
     "word": "إذا",
-    "start": 58.43,
-    "end": 59.29
+    "start": 58.202,
+    "end": 58.904,
+    "duration": 0.702
   },
   {
     "word": "قلت",
-    "start": 59.29,
-    "end": 60.14
+    "start": 58.904,
+    "end": 59.607,
+    "duration": 0.702
   },
   {
     "word": "صناعتهما؟",
-    "start": 60.14,
-    "end": 61.0
+    "start": 59.607,
+    "end": 60.309,
+    "duration": 0.702
   },
   {
     "word": "قال",
-    "start": 61,
-    "end": 61.8
+    "start": 61.472,
+    "end": 62.15,
+    "duration": 0.678
   },
   {
     "word": "تقل",
-    "start": 61.8,
-    "end": 62.6
+    "start": 62.15,
+    "end": 62.829,
+    "duration": 0.678
   },
   {
     "word": "كمية",
-    "start": 62.6,
-    "end": 63.4
+    "start": 62.829,
+    "end": 63.507,
+    "duration": 0.678
   },
   {
     "word": "النفايات",
-    "start": 63.4,
-    "end": 64.2
+    "start": 63.507,
+    "end": 64.186,
+    "duration": 0.678
   },
   {
     "word": "من",
-    "start": 64.2,
-    "end": 65.0
+    "start": 64.186,
+    "end": 64.864,
+    "duration": 0.678
   },
   {
     "word": "الأكياس",
-    "start": 65.0,
-    "end": 65.8
+    "start": 64.864,
+    "end": 65.542,
+    "duration": 0.678
   },
   {
     "word": "وخاصة",
-    "start": 65.8,
-    "end": 66.6
+    "start": 65.542,
+    "end": 66.221,
+    "duration": 0.678
   },
   {
     "word": "المصموعة",
-    "start": 66.6,
-    "end": 67.4
+    "start": 66.221,
+    "end": 66.899,
+    "duration": 0.678
   },
   {
     "word": "من",
-    "start": 67.4,
-    "end": 68.2
+    "start": 66.899,
+    "end": 67.578,
+    "duration": 0.678
   },
   {
     "word": "النايلوني",
-    "start": 68.2,
-    "end": 69.0
+    "start": 67.578,
+    "end": 68.256,
+    "duration": 0.678
   },
   {
     "word": "فالمشكلة",
-    "start": 69,
-    "end": 69.64
+    "start": 69.173,
+    "end": 69.752,
+    "duration": 0.579
   },
   {
     "word": "يا",
-    "start": 69.64,
-    "end": 70.29
+    "start": 69.752,
+    "end": 70.331,
+    "duration": 0.579
   },
   {
     "word": "صغيري",
-    "start": 70.29,
-    "end": 70.93
+    "start": 70.331,
+    "end": 70.91,
+    "duration": 0.579
   },
   {
     "word": "أن",
-    "start": 70.93,
-    "end": 71.57
+    "start": 70.91,
+    "end": 71.49,
+    "duration": 0.579
   },
   {
     "word": "كيس",
-    "start": 71.57,
-    "end": 72.21
+    "start": 71.49,
+    "end": 72.069,
+    "duration": 0.579
   },
   {
     "word": "النايلوني",
-    "start": 72.21,
-    "end": 72.86
+    "start": 72.069,
+    "end": 72.648,
+    "duration": 0.579
   },
   {
     "word": "يحتاج",
-    "start": 72.86,
-    "end": 73.5
+    "start": 72.648,
+    "end": 73.227,
+    "duration": 0.579
   },
   {
     "word": "إلى",
-    "start": 73.5,
-    "end": 74.14
+    "start": 73.227,
+    "end": 73.806,
+    "duration": 0.579
   },
   {
     "word": "مئات",
-    "start": 74.14,
-    "end": 74.79
+    "start": 73.806,
+    "end": 74.385,
+    "duration": 0.579
   },
   {
     "word": "السنين",
-    "start": 74.79,
-    "end": 75.43
+    "start": 74.385,
+    "end": 74.964,
+    "duration": 0.579
   },
   {
     "word": "كي",
-    "start": 75.43,
-    "end": 76.07
+    "start": 74.964,
+    "end": 75.543,
+    "duration": 0.579
   },
   {
     "word": "يتحلل",
-    "start": 76.07,
-    "end": 76.71
+    "start": 75.543,
+    "end": 76.122,
+    "duration": 0.579
   },
   {
     "word": "في",
-    "start": 76.71,
-    "end": 77.36
+    "start": 76.122,
+    "end": 76.701,
+    "duration": 0.579
   },
   {
     "word": "الأرض",
-    "start": 77.36,
-    "end": 78.0
+    "start": 76.701,
+    "end": 77.28,
+    "duration": 0.579
   },
   {
     "word": "أردت",
-    "start": 78,
-    "end": 78.67
+    "start": 78.603,
+    "end": 79.202,
+    "duration": 0.6
   },
   {
     "word": "الحصول",
-    "start": 78.67,
-    "end": 79.33
+    "start": 79.202,
+    "end": 79.802,
+    "duration": 0.6
   },
   {
     "word": "على",
-    "start": 79.33,
-    "end": 80.0
+    "start": 79.802,
+    "end": 80.402,
+    "duration": 0.6
   },
   {
     "word": "كيس",
-    "start": 80.0,
-    "end": 80.67
+    "start": 80.402,
+    "end": 81.001,
+    "duration": 0.6
   },
   {
     "word": "مثل",
-    "start": 80.67,
-    "end": 81.33
+    "start": 81.001,
+    "end": 81.601,
+    "duration": 0.6
   },
   {
     "word": "الكيس",
-    "start": 81.33,
-    "end": 82.0
+    "start": 81.601,
+    "end": 82.201,
+    "duration": 0.6
   },
   {
     "word": "الذي",
-    "start": 82.0,
-    "end": 82.67
+    "start": 82.201,
+    "end": 82.801,
+    "duration": 0.6
   },
   {
     "word": "يحمله",
-    "start": 82.67,
-    "end": 83.33
+    "start": 82.801,
+    "end": 83.4,
+    "duration": 0.6
   },
   {
     "word": "عمي",
-    "start": 83.33,
-    "end": 84.0
+    "start": 83.4,
+    "end": 84.0,
+    "duration": 0.6
   },
   {
     "word": "فتبرع",
-    "start": 84,
-    "end": 84.73
+    "start": 84.0,
+    "end": 84.723,
+    "duration": 0.723
   },
   {
     "word": "لي",
-    "start": 84.73,
-    "end": 85.45
+    "start": 84.723,
+    "end": 85.447,
+    "duration": 0.723
   },
   {
     "word": "أبي",
-    "start": 85.45,
-    "end": 86.18
+    "start": 85.447,
+    "end": 86.17,
+    "duration": 0.723
   },
   {
     "word": "بأحد",
-    "start": 86.18,
-    "end": 86.91
+    "start": 86.17,
+    "end": 86.894,
+    "duration": 0.723
   },
   {
     "word": "قمصانه",
-    "start": 86.91,
-    "end": 87.64
+    "start": 86.894,
+    "end": 87.617,
+    "duration": 0.723
   },
   {
     "word": "الشتوية",
-    "start": 87.64,
-    "end": 88.36
+    "start": 87.617,
+    "end": 88.34,
+    "duration": 0.723
   },
   {
     "word": "القديمة",
-    "start": 88.36,
-    "end": 89.09
+    "start": 88.34,
+    "end": 89.064,
+    "duration": 0.723
   },
   {
     "word": "وخاطته",
-    "start": 89.09,
-    "end": 89.82
+    "start": 89.064,
+    "end": 89.787,
+    "duration": 0.723
   },
   {
     "word": "جارتنا",
-    "start": 89.82,
-    "end": 90.55
+    "start": 89.787,
+    "end": 90.511,
+    "duration": 0.723
   },
   {
     "word": "ليصبح",
-    "start": 90.55,
-    "end": 91.27
+    "start": 90.511,
+    "end": 91.234,
+    "duration": 0.723
   },
   {
     "word": "كيسا",
-    "start": 91.27,
-    "end": 92.0
+    "start": 91.234,
+    "end": 91.957,
+    "duration": 0.723
   },
   {
     "word": "وفي",
-    "start": 92,
-    "end": 92.6
+    "start": 92.107,
+    "end": 92.679,
+    "duration": 0.573
   },
   {
     "word": "اليوم",
-    "start": 92.6,
-    "end": 93.2
+    "start": 92.679,
+    "end": 93.252,
+    "duration": 0.573
   },
   {
     "word": "التالي",
-    "start": 93.2,
-    "end": 93.8
+    "start": 93.252,
+    "end": 93.825,
+    "duration": 0.573
   },
   {
     "word": "وضعت",
-    "start": 93.8,
-    "end": 94.4
+    "start": 93.825,
+    "end": 94.398,
+    "duration": 0.573
   },
   {
     "word": "فيه",
-    "start": 94.4,
-    "end": 95.0
+    "start": 94.398,
+    "end": 94.971,
+    "duration": 0.573
   },
   {
     "word": "حقيبة",
-    "start": 95.0,
-    "end": 95.6
+    "start": 94.971,
+    "end": 95.543,
+    "duration": 0.573
   },
   {
     "word": "طعامي",
-    "start": 95.6,
-    "end": 96.2
+    "start": 95.543,
+    "end": 96.116,
+    "duration": 0.573
   },
   {
     "word": "وتوجهت",
-    "start": 96.2,
-    "end": 96.8
+    "start": 96.116,
+    "end": 96.689,
+    "duration": 0.573
   },
   {
     "word": "إلى",
-    "start": 96.8,
-    "end": 97.4
+    "start": 96.689,
+    "end": 97.262,
+    "duration": 0.573
   },
   {
     "word": "المدرسة",
-    "start": 97.4,
-    "end": 98.0
+    "start": 97.262,
+    "end": 97.835,
+    "duration": 0.573
   },
   {
     "word": "استقبلني",
-    "start": 98,
-    "end": 98.91
+    "start": 98.293,
+    "end": 99.12,
+    "duration": 0.827
   },
   {
     "word": "أصدقائي",
-    "start": 98.91,
-    "end": 99.82
+    "start": 99.12,
+    "end": 99.948,
+    "duration": 0.827
   },
   {
     "word": "بنظرات",
-    "start": 99.82,
-    "end": 100.73
+    "start": 99.948,
+    "end": 100.775,
+    "duration": 0.827
   },
   {
     "word": "الدهشة",
-    "start": 100.73,
-    "end": 101.64
+    "start": 100.775,
+    "end": 101.602,
+    "duration": 0.827
   },
   {
     "word": "وتجمعوا",
-    "start": 101.64,
-    "end": 102.55
+    "start": 101.602,
+    "end": 102.429,
+    "duration": 0.827
   },
   {
     "word": "حولي",
-    "start": 102.55,
-    "end": 103.45
+    "start": 102.429,
+    "end": 103.256,
+    "duration": 0.827
   },
   {
     "word": "ليكتشفوا",
-    "start": 103.45,
-    "end": 104.36
+    "start": 103.256,
+    "end": 104.083,
+    "duration": 0.827
   },
   {
     "word": "سر",
-    "start": 104.36,
-    "end": 105.27
+    "start": 104.083,
+    "end": 104.911,
+    "duration": 0.827
   },
   {
     "word": "الكيس",
-    "start": 105.27,
-    "end": 106.18
+    "start": 104.911,
+    "end": 105.738,
+    "duration": 0.827
   },
   {
     "word": "فأخبرتهم",
-    "start": 106.18,
-    "end": 107.09
+    "start": 105.738,
+    "end": 106.565,
+    "duration": 0.827
   },
   {
     "word": "بالقصة",
-    "start": 107.09,
-    "end": 108.0
+    "start": 106.565,
+    "end": 107.392,
+    "duration": 0.827
   },
   {
     "word": "وفي",
-    "start": 108,
-    "end": 108.71
+    "start": 108.192,
+    "end": 108.871,
+    "duration": 0.679
   },
   {
     "word": "الحصة",
-    "start": 108.71,
-    "end": 109.43
+    "start": 108.871,
+    "end": 109.55,
+    "duration": 0.679
   },
   {
     "word": "الأخيرة",
-    "start": 109.43,
-    "end": 110.14
+    "start": 109.55,
+    "end": 110.229,
+    "duration": 0.679
   },
   {
     "word": "وقفت",
-    "start": 110.14,
-    "end": 110.86
+    "start": 110.229,
+    "end": 110.907,
+    "duration": 0.679
   },
   {
     "word": "لينا",
-    "start": 110.86,
-    "end": 111.57
+    "start": 110.907,
+    "end": 111.586,
+    "duration": 0.679
   },
   {
     "word": "وقالت",
-    "start": 111.57,
-    "end": 112.29
+    "start": 111.586,
+    "end": 112.265,
+    "duration": 0.679
   },
   {
     "word": "للمعلمة",
-    "start": 112.29,
-    "end": 113.0
+    "start": 112.265,
+    "end": 112.944,
+    "duration": 0.679
   },
   {
     "word": "أحضر",
-    "start": 113.0,
-    "end": 113.71
+    "start": 112.944,
+    "end": 113.623,
+    "duration": 0.679
   },
   {
     "word": "محمود",
-    "start": 113.71,
-    "end": 114.43
+    "start": 113.623,
+    "end": 114.302,
+    "duration": 0.679
   },
   {
     "word": "كيسا",
-    "start": 114.43,
-    "end": 115.14
+    "start": 114.302,
+    "end": 114.981,
+    "duration": 0.679
   },
   {
     "word": "قماشيا",
-    "start": 115.14,
-    "end": 115.86
+    "start": 114.981,
+    "end": 115.659,
+    "duration": 0.679
   },
   {
     "word": "ليحافظ",
-    "start": 115.86,
-    "end": 116.57
+    "start": 115.659,
+    "end": 116.338,
+    "duration": 0.679
   },
   {
     "word": "على",
-    "start": 116.57,
-    "end": 117.29
+    "start": 116.338,
+    "end": 117.017,
+    "duration": 0.679
   },
   {
     "word": "البيئة",
-    "start": 117.29,
-    "end": 118.0
+    "start": 117.017,
+    "end": 117.696,
+    "duration": 0.679
   },
   {
     "word": "ابتسمت",
-    "start": 118,
-    "end": 118.82
+    "start": 118.88,
+    "end": 119.58,
+    "duration": 0.7
   },
   {
     "word": "المعلمة",
-    "start": 118.82,
-    "end": 119.64
+    "start": 119.58,
+    "end": 120.28,
+    "duration": 0.7
   },
   {
     "word": "وقالت",
-    "start": 119.64,
-    "end": 120.45
+    "start": 120.28,
+    "end": 120.98,
+    "duration": 0.7
   },
   {
     "word": "أمر",
-    "start": 120.45,
-    "end": 121.27
+    "start": 120.98,
+    "end": 121.68,
+    "duration": 0.7
   },
   {
     "word": "رائع",
-    "start": 121.27,
-    "end": 122.09
+    "start": 121.68,
+    "end": 122.381,
+    "duration": 0.7
   },
   {
     "word": "لأنه",
-    "start": 122.09,
-    "end": 122.91
+    "start": 122.381,
+    "end": 123.081,
+    "duration": 0.7
   },
   {
     "word": "يمكن",
-    "start": 122.91,
-    "end": 123.73
+    "start": 123.081,
+    "end": 123.781,
+    "duration": 0.7
   },
   {
     "word": "غسل",
-    "start": 123.73,
-    "end": 124.55
+    "start": 123.781,
+    "end": 124.481,
+    "duration": 0.7
   },
   {
     "word": "الكيس",
-    "start": 124.55,
-    "end": 125.36
+    "start": 124.481,
+    "end": 125.181,
+    "duration": 0.7
   },
   {
     "word": "كلما",
-    "start": 125.36,
-    "end": 126.18
+    "start": 125.181,
+    "end": 125.881,
+    "duration": 0.7
   },
   {
     "word": "اتسخ",
-    "start": 126.18,
-    "end": 127.0
+    "start": 125.881,
+    "end": 126.581,
+    "duration": 0.7
   },
   {
     "word": "ثم",
-    "start": 127,
-    "end": 127.62
+    "start": 127.605,
+    "end": 128.092,
+    "duration": 0.487
   },
   {
     "word": "سألتني",
-    "start": 127.62,
-    "end": 128.25
+    "start": 128.092,
+    "end": 128.579,
+    "duration": 0.487
   },
   {
     "word": "ما",
-    "start": 128.25,
-    "end": 128.88
+    "start": 128.579,
+    "end": 129.065,
+    "duration": 0.487
   },
   {
     "word": "الذي",
-    "start": 128.88,
-    "end": 129.5
+    "start": 129.065,
+    "end": 129.552,
+    "duration": 0.487
   },
   {
     "word": "جعلك",
-    "start": 129.5,
-    "end": 130.12
+    "start": 129.552,
+    "end": 130.039,
+    "duration": 0.487
   },
   {
     "word": "تحمل",
-    "start": 130.12,
-    "end": 130.75
+    "start": 130.039,
+    "end": 130.525,
+    "duration": 0.487
   },
   {
     "word": "هذا",
-    "start": 130.75,
-    "end": 131.38
+    "start": 130.525,
+    "end": 131.012,
+    "duration": 0.487
   },
   {
     "word": "الكيس؟",
-    "start": 131.38,
-    "end": 132.0
+    "start": 131.012,
+    "end": 131.499,
+    "duration": 0.487
   },
   {
     "word": "قلت",
-    "start": 132,
-    "end": 132.83
+    "start": 132.661,
+    "end": 133.412,
+    "duration": 0.751
   },
   {
     "word": "لها",
-    "start": 132.83,
-    "end": 133.67
+    "start": 133.412,
+    "end": 134.164,
+    "duration": 0.751
   },
   {
     "word": "أنا",
-    "start": 133.67,
-    "end": 134.5
+    "start": 134.164,
+    "end": 134.915,
+    "duration": 0.751
   },
   {
     "word": "أحب",
-    "start": 134.5,
-    "end": 135.33
+    "start": 134.915,
+    "end": 135.666,
+    "duration": 0.751
   },
   {
     "word": "الطبيعة",
-    "start": 135.33,
-    "end": 136.17
+    "start": 135.666,
+    "end": 136.417,
+    "duration": 0.751
   },
   {
     "word": "وخاصة",
-    "start": 136.17,
-    "end": 137.0
+    "start": 136.417,
+    "end": 137.168,
+    "duration": 0.751
   },
   {
     "word": "الشجرة",
-    "start": 137.0,
-    "end": 137.83
+    "start": 137.168,
+    "end": 137.919,
+    "duration": 0.751
   },
   {
     "word": "فهي",
-    "start": 137.83,
-    "end": 138.67
+    "start": 137.919,
+    "end": 138.67,
+    "duration": 0.751
   },
   {
     "word": "تعطينا",
     "start": 138.67,
-    "end": 139.5
+    "end": 139.421,
+    "duration": 0.751
   },
   {
     "word": "أكياس",
-    "start": 139.5,
-    "end": 140.33
+    "start": 139.421,
+    "end": 140.172,
+    "duration": 0.751
   },
   {
     "word": "الورق",
-    "start": 140.33,
-    "end": 141.17
+    "start": 140.172,
+    "end": 140.924,
+    "duration": 0.751
   },
   {
     "word": "والنيلون",
-    "start": 141.17,
-    "end": 142.0
+    "start": 140.924,
+    "end": 141.675,
+    "duration": 0.751
   },
   {
     "word": "ابتسمت",
-    "start": 142,
-    "end": 142.71
+    "start": 142.603,
+    "end": 143.212,
+    "duration": 0.61
   },
   {
     "word": "المعلمة",
-    "start": 142.71,
-    "end": 143.43
+    "start": 143.212,
+    "end": 143.822,
+    "duration": 0.61
   },
   {
     "word": "وقالت",
-    "start": 143.43,
-    "end": 144.14
+    "start": 143.822,
+    "end": 144.431,
+    "duration": 0.61
   },
   {
     "word": "لا",
-    "start": 144.14,
-    "end": 144.86
+    "start": 144.431,
+    "end": 145.041,
+    "duration": 0.61
   },
   {
     "word": "يوجد",
-    "start": 144.86,
-    "end": 145.57
+    "start": 145.041,
+    "end": 145.65,
+    "duration": 0.61
   },
   {
     "word": "شجر",
-    "start": 145.57,
-    "end": 146.29
+    "start": 145.65,
+    "end": 146.26,
+    "duration": 0.61
   },
   {
     "word": "نيلون",
-    "start": 146.29,
-    "end": 147.0
+    "start": 146.26,
+    "end": 146.869,
+    "duration": 0.61
   },
   {
     "word": "فنحن",
-    "start": 147.0,
-    "end": 147.71
+    "start": 146.869,
+    "end": 147.479,
+    "duration": 0.61
   },
   {
     "word": "نحصل",
-    "start": 147.71,
-    "end": 148.43
+    "start": 147.479,
+    "end": 148.088,
+    "duration": 0.61
   },
   {
     "word": "على",
-    "start": 148.43,
-    "end": 149.14
+    "start": 148.088,
+    "end": 148.698,
+    "duration": 0.61
   },
   {
     "word": "النيلون",
-    "start": 149.14,
-    "end": 149.86
+    "start": 148.698,
+    "end": 149.307,
+    "duration": 0.61
   },
   {
     "word": "من",
-    "start": 149.86,
-    "end": 150.57
+    "start": 149.307,
+    "end": 149.917,
+    "duration": 0.61
   },
   {
     "word": "صناعات",
-    "start": 150.57,
-    "end": 151.29
+    "start": 149.917,
+    "end": 150.526,
+    "duration": 0.61
   },
   {
     "word": "النفط",
-    "start": 151.29,
-    "end": 152.0
+    "start": 150.526,
+    "end": 151.136,
+    "duration": 0.61
   }
 ]
