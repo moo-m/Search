@@ -461,7 +461,7 @@
   };
   let currentLesson = 0;
   let timingData = [];
-  let audioPlayer = new Audio('/1.mp3');
+  let audioPlayer = new Audio('https://moo-m.github.io/Search/1.mp3');
   let isPlayingAudio = false;
   let syncAnimationId = null;
   let currentWordsList = [];
@@ -469,7 +469,7 @@
   // تحميل ملف التوقيت JSON
   async function loadTimingData() {
     try {
-      const response = await fetch('/1.json');
+      const response = await fetch('https://moo-m.github.io/Search/1.json');
       if (!response.ok) throw new Error('فشل تحميل التوقيت');
       timingData = await response.json();
       console.log('تم تحميل التوقيت بنجاح، عدد الكلمات:', timingData.length);
